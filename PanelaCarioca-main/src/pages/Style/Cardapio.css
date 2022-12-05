@@ -1,0 +1,43 @@
+.Cardapio{
+height: 1000px;
+    background-image: url(/src/pages/Style/Imagens/Background6.png);
+ 
+}
+.Cardapio h1{
+  
+    text-align: center;
+    color: red;
+}
+
+.Cardapio h2{
+
+    margin-left: 5rem;
+
+}
+.img2{
+    display: flex;
+    float: right;
+    width: 15rem;
+    margin-top: 7rem;
+  }
+  .img3{
+    display: flex;
+    float: right;
+    width: 15rem;
+    margin-right: 20rem;
+    margin-left: 8rem;
+  }
+  .img4{
+    float: right;
+    width: 15rem;
+    margin-top: 20rem;
+    margin-right: -40rem;
+  }
+  /* .img5{
+    float: right;
+    width: 15rem;
+  }
+  .img6{
+    float: right;
+    width: 15rem;
+  } */

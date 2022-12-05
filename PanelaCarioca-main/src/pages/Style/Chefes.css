@@ -1,0 +1,40 @@
+.Chefes h1{
+    background-image: url(/src/pages/Style/Imagens/Header.png);
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Lobster";
+}
+
+.Chefes1{
+height: 1080px;
+background-image: url(/src/pages/Style/Imagens/chefe1.png);
+}
+.Chefes2{
+    height: 1080px;
+    background-image: url(/src/pages/Style/Imagens/chefe2.png);
+}
+.Chefes3{
+    height: 1080px;
+    background-image: url(/src/pages/Style/Imagens/chefe3.png);
+}
+.Chefes4{
+
+    height: 1080px;
+    background-image: url(/src/pages/Style/Imagens/chefe4.png);
+}
+
+.container-chef{
+    float: right;
+    width: 400px;
+    height: 1080px;
+    background-color: rgba(255, 130, 28, 0.747);
+    margin-right: 10rem;
+    text-align: center;
+    box-shadow: 0px 6px 17px 1px #f78b1f;
+
+}
+.container-chef h2{
+    margin: 15rem 0rem;
+    font-family: "Lobster";
+    font-size: 3rem;
+}

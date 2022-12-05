@@ -1,0 +1,30 @@
+.Sobre{
+  
+    background-image: url(/src/pages/Style/Imagens/Background6.png);
+    height: 800px;
+}
+
+.Sobre h1{
+    display: block;
+text-align: center;
+margin-bottom: 2rem;
+}
+
+.container-sobre{
+    display: flex;
+}
+
+.gallery2{
+    margin: 5rem 0rem;
+    display: flex;
+}
+
+.gallery2 img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.desc2 h1{
+    text-align: center;
+}

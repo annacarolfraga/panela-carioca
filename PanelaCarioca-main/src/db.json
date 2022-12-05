@@ -1,0 +1,73 @@
+{
+   "Franquias": [
+   { "id": 1,
+       "local": "Copacabana", 
+       "n° de Funcionarios": 19 },
+
+   { "id": 2,
+       "local": "Ipanema", 
+       "n° de Funcionarios": 12 },   
+
+   { "id": 3,
+       "local": "Recreio", 
+       "n° de Funcionarios": 15 },
+   
+   { "id": 4,
+       "local": "Tijuca", 
+       "n° de Funcionarios": 22 }
+   ],
+
+
+   "Chefes": [
+   { "id": 1,
+       "nome": "Alain Ducasse", 
+       "idade": 54,
+       "email": "AlianD.cheff@gmail.com", 
+       "franquia": "Recreio"},
+   
+   { "id": 2,
+       "nome": "Claude Troisgros", 
+       "idade": 42,
+       "email": "TClaude.gros@gmail.com", 
+       "franquia": "Tijuca"},  
+   
+   { "id": 3,
+       "nome": "Jean Roca", 
+       "idade": 65,
+       "email": "RocaJ.rj@gmail.com", 
+       "franquia": "Copacabana"},
+       
+   { "id": 4,
+       "nome": "Manu Buffara", 
+       "idade": 33,
+       "email": "Manubuuf@gmail.com", 
+       "franquia": "Ipanema"}
+   ],
+
+   "Fornecedores":[
+   { "id": 1,
+       "Fornece": "Refrigerante", 
+       "1°": "Coca Cola",
+       "2°": "Guarana",
+       "3°": "Peps" },
+
+   { "id": 2,
+       "Fornece": "carne", 
+       "1°": "Friboi"
+   },
+
+   { "id": 3,
+       "Fornece": "Legumes e Frutas", 
+       "1°": "Agrofruti Distribuidora",
+       "2°": "Lavoura Frutas e Legumes"
+   },
+
+   
+   { "id": 4,
+       "Fornece": "Congelados", 
+       "1°": "Sadia",
+       "2°": "Mccain",
+       "3°": "Aurora" }
+
+   ]
+}
